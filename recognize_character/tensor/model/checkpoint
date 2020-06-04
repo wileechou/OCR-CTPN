@@ -1,0 +1,6 @@
+model_checkpoint_path: "img_model-99001"
+all_model_checkpoint_paths: "img_model-95001"
+all_model_checkpoint_paths: "img_model-96001"
+all_model_checkpoint_paths: "img_model-97001"
+all_model_checkpoint_paths: "img_model-98001"
+all_model_checkpoint_paths: "img_model-99001"

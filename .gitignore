@@ -1,0 +1,7 @@
+# Project exclude paths
+/checkpoints/
+/data/
+/data/pretrain/
+/logs/
+/output/
+/prepare_training_data/
